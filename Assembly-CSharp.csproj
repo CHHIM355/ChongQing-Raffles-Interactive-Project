@@ -75,9 +75,10 @@
     <Compile Include="Assets\Dependencies\AniInstancing\Scripts\EventReceiver.cs" />
     <Compile Include="Assets\Dependencies\AniInstancing\Scripts\Singleton.cs" />
     <Compile Include="Assets\Dependencies\AniInstancing\Scripts\runtimeHelper.cs" />
+    <Compile Include="Assets\Scripts\Water.cs" />
     <None Include="Assets\Dependencies\AniInstancing\Shader\Normal-BumpSpecinstancing.shader" />
-    <None Include="Assets\Resources\Mapbox\MapboxConfiguration.txt" />
     <None Include="Assets\Dependencies\AniInstancing\Shader\Mobile-BumpSpec_instancing.shader" />
+    <None Include="Assets\ShaderGraph\ReferenceShader\PT_OceanDisplace.shader" />
     <None Include="Assets\Dependencies\AniInstancing\Shader\Normal-DiffuseInstancing.shader" />
     <None Include="Assets\Dependencies\AniInstancing\Shader\AnimationInstancingBase.cginc" />
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
